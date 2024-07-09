@@ -7,5 +7,7 @@ This Sales Insights Dashboard is an interactive web application built using Stre
 - **Interactive Filters**: Users can filter sales data by city, customer type, and gender.
 - **Key Performance Indicators (KPIs)**: Displays total sales, average rating, and average sales per transaction.
 - **Sales Visualization**:
-  - **Sales by Product Line**: Bar chart showing total sales per product line.
-  - **Sales by Hour**: Bar chart showing total sales by hour of the day.
+- **Sales by Product Line**: Bar chart showing total sales per product line.
+- **Sales by Hour**: Bar chart showing total sales by hour of the day.
+
+### For full code please mail me to : githubspam07@gmail.com
